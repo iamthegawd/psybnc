@@ -1,0 +1,52 @@
+:irc.atw-inter.net 001 dog :Welcome to the Internet Relay Network dog!~dog@bra-ird-01a.whitehats.net:irc.atw-inter.net 002 dog :Your host is irc.atw-inter.net, running version 2.11.2p3
+:irc.atw-inter.net 003 dog :This server was created Fri Dec 22 2017 at 11:29:02 CET
+:irc.atw-inter.net 004 dog irc.atw-inter.net 2.11.2p3 aoOirw abeiIklmnoOpqrRstv
+:irc.atw-inter.net 005 dog RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:42 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+:irc.atw-inter.net 005 dog PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+:irc.atw-inter.net 251 dog :There are 32329 users and 4 services on 25 servers
+:irc.atw-inter.net 252 dog 77 :operators online
+:irc.atw-inter.net 253 dog 62 :unknown connections
+:irc.atw-inter.net 254 dog 18309 :channels formed
+:irc.atw-inter.net 255 dog :I have 2325 users, 0 services and 1 servers
+:irc.atw-inter.net 265 dog 2325 7085 :Current local users 2325, max 7085
+:irc.atw-inter.net 266 dog 32329 32760 :Current global users 32329, max 32760
+:irc.atw-inter.net 375 dog :- irc.atw-inter.net Message of the Day - 
+:irc.atw-inter.net 372 dog :- 30/9/2014 21:24
+:irc.atw-inter.net 372 dog :- This server is provided by:                              
+:irc.atw-inter.net 372 dog :-    _ _______      __  ___     _                    _     
+:irc.atw-inter.net 372 dog :-   /_\_   _\ \    / / |_ _|_ _| |_ ___ _ _ _ _  ___| |_   
+:irc.atw-inter.net 372 dog :-  / _ \| |  \ \/\/ /   | || ' \  _/ -_) '_| ' \/ -_)  _|  
+:irc.atw-inter.net 372 dog :- /_/ \_\_|   \_/\_/   |___|_||_\__\___|_| |_||_\___|\__|  
+:irc.atw-inter.net 372 dog :-                                                          
+:irc.atw-inter.net 372 dog :-  - We are open to all users over both IPv4 and IPv6.     
+:irc.atw-inter.net 372 dog :-  - SSL Is available on Ports 6679 and 6697               
+:irc.atw-inter.net 372 dog :-                                                          
+:irc.atw-inter.net 372 dog :-         - S E R V E R   R U L E S -                      
+:irc.atw-inter.net 372 dog :-  - We reserve the right to deny service to               
+:irc.atw-inter.net 372 dog :-    anyone at any time and for any reason.                
+:irc.atw-inter.net 372 dog :-  - We scan for open proxies on connect. If               
+:irc.atw-inter.net 372 dog :-    you do not wish to be scanned, please do              
+:irc.atw-inter.net 372 dog :-    not connect to this server.                           
+:irc.atw-inter.net 372 dog :-                                                          
+:irc.atw-inter.net 372 dog :-  - Rules for shell providers and bot runners:            
+:irc.atw-inter.net 372 dog :-    - Maximum of 3 clients per person/ident,              
+:irc.atw-inter.net 372 dog :-    - identd is required and no ident spoofing,           
+:irc.atw-inter.net 372 dog :-    - No changing a ident after a kline or giving         
+:irc.atw-inter.net 372 dog :-       a single person multiple usernames                 
+:irc.atw-inter.net 372 dog :-                                                          
+:irc.atw-inter.net 372 dog :-  - General limits (request changes via /admin):          
+:irc.atw-inter.net 372 dog :-    - 3 clients per person/ident                          
+:irc.atw-inter.net 372 dog :-    - 3 clients per host (without ident)                  
+:irc.atw-inter.net 372 dog :-    - 20 clients per /24 in IPv4                          
+:irc.atw-inter.net 372 dog :-    - 10 clients per /48 in IPv6                          
+:irc.atw-inter.net 372 dog :-                                                          
+:irc.atw-inter.net 372 dog :-  - If your IP range offers services to other people      
+:irc.atw-inter.net 372 dog :-      (Shell providers) you must let us know.             
+:irc.atw-inter.net 372 dog :-  - If we notice excessive (>5) connections on different  
+:irc.atw-inter.net 372 dog :-      subnets. You may be banned.                         
+:irc.atw-inter.net 372 dog :-  - Clients connected for the purpose of stealing         
+:irc.atw-inter.net 372 dog :-      nicknames are not allowed.                          
+:irc.atw-inter.net 372 dog :-  - Breaking these rules will result in a ban             
+:irc.atw-inter.net 372 dog :-      on ALL open servers.                                
+:irc.atw-inter.net 372 dog :-                                                          
+:irc.atw-inter.net 376 dog :End of MOTD command.
